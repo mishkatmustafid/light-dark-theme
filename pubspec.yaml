@@ -12,8 +12,8 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   google_fonts: ^2.1.0 # it helps us to use google fonts on our app
-  flutter_svg: ^0.18.0 # it helps us to use SVG in our app
-  provider: ^4.3.2+1 # Our state management package
+  flutter_svg: ^0.22.0 # it helps us to use SVG in our app
+  provider: ^6.0.0 # Our state management package
 
 dev_dependencies:
   flutter_test:
