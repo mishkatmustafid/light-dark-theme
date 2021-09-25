@@ -16,6 +16,7 @@ class Body extends StatelessWidget {
             style: Theme.of(context).textTheme.bodyText1,
           ),
           const TimeInHourAndMinute(),
+          const Clock(),
         ],
       ),
     );
